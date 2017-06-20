@@ -32,7 +32,7 @@
                   <?php include_once('news/june2017_pr.php'); ?>
                 </div>
                 <!--<label for="pr-1" class="read-more-trigger btn btn-default"></label>-->
-                <a class="btn btn-default" href="/news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo.pdf" role="button">Download as PDF</a>
+                <a class="btn btn-default" href="/news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo.pdf" role="button" target="_blank">Download as PDF</a>
             </div>
         </div>
       </div>
