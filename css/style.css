@@ -1,0 +1,482 @@
+html {
+    overflow-y: scroll;
+    height: 100%
+}
+
+body {
+    font-family:  "Oswald", Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: 400;
+    min-height: 100%;
+    background: #770000;
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000));
+    background: -ms-linear-gradient(bottom, #480000, #770000);
+    background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%);
+    background: -o-linear-gradient(#770000, #480000);
+}
+
+footer {
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    color: white;
+    background: #770000;
+    background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000));
+    background: -ms-linear-gradient(bottom, #480000, #770000);
+    background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%);
+    background: -o-linear-gradient(#770000, #480000);
+}
+
+p {
+    font-size: 18px
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-color: #BABAC3
+}
+
+h4 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 20px;
+}
+
+ul{
+  list-style-type: square;
+}
+
+#news {
+    padding-bottom: 10px;
+}
+
+body>.container-fluid{
+  background-color: rgb(230,230,230)
+}
+
+/*header*/
+
+#index-navbar{
+  background: none;
+  border: 0;
+  margin-top: 20px;
+}
+
+.navbar-nav{
+  float: right;
+}
+
+.navbar-inverse{
+  background: #770000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000));
+  background: -ms-linear-gradient(bottom, #480000, #770000);
+  background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%);
+  background: -o-linear-gradient(#770000, #480000);
+}
+
+.navbar-nav>li>a {
+    font-size: 18px;
+    color: white;
+}
+
+.navbar-nav>li+li{
+  margin-left: 35px;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a.active>span{
+  border-bottom: 2px solid white;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover>span:not(.caret){
+  border-bottom: 2px solid white;
+  transition: border 100ms ease;
+}
+
+.navbar-inverse .navbar-nav>.open>a,
+.navbar-inverse .navbar-nav>.open>a:hover,
+.navbar-inverse .navbar-nav>.open>a:focus{
+  background: #770000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000));
+  background: -ms-linear-gradient(bottom, #480000, #770000);
+  background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%);
+  background: -o-linear-gradient(#770000, #480000);
+  background-position-y: 50px;
+}
+
+.navbar-nav>li>.dropdown-menu{
+  border:0;
+  background: #770000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #770000), color-stop(1, #480000));
+  background: -ms-linear-gradient(bottom, #770000, #480000);
+  background: -moz-linear-gradient(center bottom, #770000 0%, #480000 100%);
+  background: -o-linear-gradient(#480000, #770000);
+}
+
+
+
+.dropdown-menu>li>a{
+  color: white;
+}
+
+.dropdown-menu>li+li{
+  padding-top: 20px;
+}
+
+.header-logo {
+    max-height: 50px;
+    width: auto;
+}
+
+.navbar-fixed-top .navbar-brand{
+  padding-top:15px;
+}
+
+/*images*/
+
+.img-trans {
+    opacity: 0.5;
+}
+
+.headshot {
+    max-width: 150px;
+    height: auto;
+}
+
+.collab-box {
+    height: 100px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+.img-invert {
+    filter: invert(100%);
+}
+
+.img-wrapped{
+  padding-right: 15px;
+}
+
+.thumbnail>img{
+  max-width: 500px;
+  height: auto;
+}
+
+/*Text Adjustments*/
+
+.team p {
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.team b{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.h3-team{
+  margin-top: 0;
+}
+
+.text-thick {
+    font-weight: 700;
+}
+
+.text-standout {
+    text-align: left;
+    margin: 10px 7% 10px 7%;
+    background-color: #770000;
+    color: white;
+
+    padding: 10px 10px 10px 10px;
+}
+
+.text-background {
+    background-color: inherit;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.alert{
+  margin-top:50px;
+}
+
+#tagline{
+  background: #770000;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000));
+  background: -ms-linear-gradient(bottom, #480000, #770000);
+  background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%);
+  background: -o-linear-gradient(#770000, #480000);
+  color: #63b6ff;
+  text-align: center;
+}
+
+#tagline>p{
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#latest-news{
+  font-size: 20px;
+
+}
+
+.news-link h3{
+  margin-top:0;
+  margin-bottom:0;
+  color: black;
+}
+
+#news-padding{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/*footer*/
+
+footer h3{
+  font-size:18px;
+  text-decoration: underline;
+}
+
+footer p{
+  font-size: 14px;
+  color: #c9c9c9;
+}
+
+footer hr{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.footer-lg{
+  visibility: visible;
+  display: block;
+}
+
+.footer-sm{
+  visibility: visible;
+  display: block;
+}
+
+.ul-footer {
+    padding: 0px;
+    margin-bottom: 5px;
+}
+
+
+
+.ul-footer>li>a {
+    color: white;
+    font-size: 18px;
+}
+
+.ul-news{
+  list-style-type:none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.ul-news>li>a>p {
+  margin-bottom: 5px;
+}
+
+.footer-logo {
+    display: inline-block;
+    max-height: 30px;
+}
+
+.copyright{
+  text-align: center;
+}
+
+.copyright p{
+  display: inline-block;
+  margin: 0;
+}
+
+#footer-nav{
+  padding-left: 20px;
+}
+
+#footer-nav>li>a,
+#footer-nav>li>span{
+  color: #c9c9c9;
+}
+
+#footer-nav>li>a.active{
+  text-decoration: underline;
+}
+
+
+
+/*Tab CLASSES*/
+
+/*.tab-scroll {
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: auto;
+}*/
+
+.nav-team {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.nav-pills>li>a {
+    font-size: 20px;
+    color: #484848;
+}
+
+.nav-pills>li.active>a {
+    background-color: #484848;
+}
+
+.nav-pills>li.active>a:hover {
+    background-color: #484848;
+}
+
+.nav-pills>li.active>a:focus {
+    background-color: #484848;
+}
+
+.nav-team>li+li {
+    margin-left: 50px;
+}
+
+.tab-row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+
+
+/*Carousel classes*/
+
+/*
+ * Start Bootstrap - Full Slider (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+/*End Full Slider*/
+
+.carousel-row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+
+.carousel-caption {
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+    bottom: initial;
+    padding-left: 20%;
+    padding-right: 20%;
+    left: 0;
+    right: 0;
+
+}
+
+.carousel-caption h2{
+  font-size: 60px;
+}
+
+.carousel-caption h3{
+  font-size: 40px;
+}
+
+.item{
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+.carousel-crop{
+  overflow:hidden;
+  height: 100vh;
+  position: relative;
+}
+
+/*Read more classes*/
+.read-more-state {
+  display: none;
+}
+
+.read-more-target {
+  display: none;
+}
+
+.read-more-state:checked ~ .read-more-wrap .read-more-target {
+  display: block;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+  content: 'Show more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+  content: 'Show less';
+}
+
+.read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+}
+
+
+/*Table classes*/
+#frac_comp td, #frac_comp th{
+  text-align: right;
+}
+
+#frac_comp .row-title{
+  text-align: left;
+}
+
+tr.border_bottom td{
+  border-bottom: 1px solid #ddd;
+}
+
+.table>thead>tr>th, .table>tbody>tr>td{
+  font-size: 18px;
+  vertical-align: middle;
+}
+
+.table-responsive>p{
+  font-size: 16px;
+}
+/*End of table classes*/

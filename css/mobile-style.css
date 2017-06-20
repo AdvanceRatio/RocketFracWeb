@@ -1,0 +1,200 @@
+/*I hate iPads*/
+
+@media(max-width: 1025px){
+  .navbar-nav>li+li{
+    margin-left: 0;
+  }
+
+  .fill{
+    background-position: 30%;
+  }
+
+}
+
+@media (max-width: 991px) {
+    h3 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 20px;
+    }
+    ul {
+        padding-left: 20px;
+    }
+     ::-webkit-scrollbar {
+        width: 0px;
+        /* remove scrollbar space */
+        background: transparent;
+        /* optional: just make scrollbar invisible */
+    }
+
+    /* optional: show position indicator in red */
+    ::-webkit-scrollbar-thumb {
+        background: #FF0000;
+    }
+
+    .text-background {
+        background-color: rgb(235,235,235);
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+
+    .navbar-brand{
+      max-width: 80%;
+    }
+
+    .navbar-fixed-top .navbar-brand{
+      padding-top:0;
+    }
+
+    .header-logo{
+      max-width:100%;
+      padding-top: 1%;
+    }
+
+    .navbar-inverse .navbar-toggle:hover,
+    .navbar-inverse .navbar-toggle:focus{
+      background: none;
+    }
+
+    .navbar-inverse .navbar-toggle{
+      border: 0;
+    }
+
+    .navbar-nav{
+      float:left;
+      margin-top:0;
+    }
+
+    .index-nav-background{
+      border: 0;
+      background: #770000 !important;
+      background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000)) !important;
+      background: -ms-linear-gradient(bottom, #480000, #770000) !important;
+      background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%) !important;
+      background: -o-linear-gradient(#770000, #480000) !important;
+    }
+
+    .navbar-inverse .navbar-collapse{
+      border: 0;
+      background: #770000;
+      background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #480000), color-stop(1, #770000));
+      background: -ms-linear-gradient(bottom, #480000, #770000);
+      background: -moz-linear-gradient(center bottom, #480000 0%, #770000 100%);
+      background: -o-linear-gradient(#770000, #480000);
+    }
+
+    .navbar-inverse .navbar-nav>.open>a,
+    .navbar-inverse .navbar-nav>.open>a:hover{
+      background: inherit;
+    }
+
+    .navbar-nav > li > .dropdown-menu{
+      background: transparent;
+    }
+
+    .navbar-collapse.in,
+    .navbar-collapse.collapsing {
+        clear: left;
+    }
+
+    .navbar-nav>li+li{
+      margin-left: 0;
+    }
+
+    #tagline p{
+      font-size: 20px;
+    }
+
+    .h3-team {
+        margin-top: 5px;
+    }
+    .nav-team>li+li {
+        margin-left: 0px;
+    }
+    .nav-team>li>a {
+        padding: 5px;
+    }
+    .nav-team>li {
+        padding-bottom: 5px;
+        margin-right: 5px;
+    }
+    .carousel-caption {
+        padding-left: 12%;
+        padding-right: 12%;
+    }
+
+    .carousel-caption h2{
+      font-size: 30px;
+    }
+
+    .carousel-caption h3{
+      font-size: 20px;
+    }
+
+    .carousel-indicators {
+      visibility: hidden;
+      display: none;
+    }
+
+    .footer-lg{
+      visibility: hidden;
+      display: none;
+    }
+
+    .footer-sm{
+      visibility: visible;
+      display: block;
+    }
+
+    .footer-logo {
+        display: block;
+        margin: auto;
+        max-height: 30px;
+        width: auto;
+    }
+
+    .copyright{
+      text-align: center;
+      display: block;
+      margin: auto;
+      padding: inherit;
+    }
+    /*I hate ipads*/
+    .navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    .navbar-nav {
+        float: none!important;
+        margin-top: 7.5px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:block !important;
+    }
+    /*end of breakpoint edit*/
+  }
