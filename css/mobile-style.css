@@ -39,7 +39,9 @@
         padding-right: 15px;
     }
 
-
+    #index-navbar{
+      margin-top: 0;
+    }
     .navbar-brand{
       max-width: 80%;
     }
