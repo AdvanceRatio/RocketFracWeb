@@ -12,10 +12,12 @@
 </head>
 
 <body>
-
-  <?php
-    include_once('php/header.php');
-   ?>
+    <?php
+      include_once('php/analyticstracking.php');
+    ?>
+    <?php
+      include_once('php/header.php');
+    ?>
 
     <div class="container-fluid">
         <div class="container text-background">

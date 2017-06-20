@@ -12,6 +12,10 @@
 
 <body id="indexbody">
 
+	<?php
+		include_once('php/analyticstracking.php');
+	?>
+
 	<!-- Navigation -->
 	<header>
 	<nav class="navbar navbar-inverse navbar-fixed-top" role="navigation" id="index-navbar">
