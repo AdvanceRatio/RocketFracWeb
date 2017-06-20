@@ -11,6 +11,9 @@
 </head>
 
 <body>
+  <?php
+    include_once('php/analyticstracking.php');
+  ?>
 
   <?php
     include_once('php/header.php');
