@@ -25,14 +25,14 @@
             </div>
             <div class="col-md-10">
               <input type="checkbox" class="read-more-state" id="pr-1"/>
-                <a class="news-link" href="/news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo">
+                <a class="news-link" href="/news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo.pdf">
                 <h3>RocketFrac Announces Former NASA Senior Executive
                     Hon. Ronald R. Spoehel Appointed Chairman Of The Board</h3></a>
                 <div class="read-more-wrap">
                   <?php include_once('news/june2017_pr.php'); ?>
                 </div>
                 <!--<label for="pr-1" class="read-more-trigger btn btn-default"></label>-->
-                <a class="btn btn-default" href="/news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo" role="button">Download as PDF</a>
+                <a class="btn btn-default" href="/news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo.pdf" role="button">Download as PDF</a>
             </div>
         </div>
       </div>
