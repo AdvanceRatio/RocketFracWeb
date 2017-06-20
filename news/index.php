@@ -25,7 +25,7 @@
             </div>
             <div class="col-md-10">
               <input type="checkbox" class="read-more-state" id="pr-1"/>
-                <a class="news-link" href="/resources/news/RFS_News Release_Initial Financing_May 1 2017_FINAL with Logo.pdf">
+                <a class="news-link" href="news/RocketFrac_Spoehel_Appointment_Press_Release_FINAL_2017_06_20_with_Logo">
                 <h3>RocketFrac Announces Former NASA Senior Executive
                     Hon. Ronald R. Spoehel Appointed Chairman Of The Board</h3></a>
                 <div class="read-more-wrap">
