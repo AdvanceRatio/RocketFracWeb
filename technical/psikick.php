@@ -22,12 +22,12 @@
 
     <div class="container-fluid">
         <div class="container text-background">
-          <h2>RocketFrac PSI-KICK&trade; Tool</h2>
+          <h2>RocketFrac PSI-Clone&trade; Tool</h2>
           <hr>
           <div class="row">
             <div class="col-md-12">
               <div class="pull-right">
-                  <img class="img-responsive center-block" src="/resources/PSI-KICK_RENDER.png" alt="Render of the PSI-KICK tool">
+                  <img class="img-responsive center-block" src="/resources/PSI-Clone_RENDER.png" alt="Render of the PSI-Clone tool">
               </div>
               <div class="float-right">
                 <p>Existing propellant fracturing
@@ -36,7 +36,7 @@
                   However, despite their success, existing tools face limitations which constrain
                   their use to short duration treatments in vertical wells. These limitations have prevented
                   their use in widespread applications.</p>
-                <p>PSI-KICK&trade; is an evolution of the current state of the art, featuring a range of improved technologies, the most important of which are:</p>
+                <p>PSI-Clone&trade; is an evolution of the current state of the art, featuring a range of improved technologies, the most important of which are:</p>
                 <ul>
                     <li>
                         <p>Re-usable automatically set sealing elements integrated into the tool.</p>
@@ -47,10 +47,10 @@
                 </ul>
                 <h3>Revolutionary Sealing Solution</h3>
                 <hr>
-                <p>One of the key aspects of the PSI-KICK&trade; tool is its ability to deliver long duration pressure profiles, thanks to our unique new sealing elements. Early testing showed that
+                <p>One of the key aspects of the PSI-Clone&trade; tool is its ability to deliver long duration pressure profiles, thanks to our unique new sealing elements. Early testing showed that
                     conventional wellbore packers would not be able to withstand the pressures our tool would generate, so we are developing our own propietary new sealing solution.</p>
-                <!--<img class="img-responsive" src="resources/PACKER-render.png" alt="Render of the PSI-KICK&trade; Packer">-->
-                <p>PSI-KICK's integrated sealing elements are:</p>
+                <!--<img class="img-responsive" src="resources/PACKER-render.png" alt="Render of the PSI-Clone&trade; Packer">-->
+                <p>PSI-Clone's integrated sealing elements are:</p>
                 <ul>
                     <li>
                         <p>Automatically deployed along with ignition of the solid propellant</p>
@@ -67,23 +67,23 @@
                 </ul>
                 <h3>Unique Propellant Formulation</h3>
                 <hr>
-                <p>PSI-KICK&trade; will be the first tool to use specially designed propellant formulations to achieve the optimum pressure-time history for every formation and well. The PSI-KICK&trade; tool is designed to be fully plug-and-play with different propellant formulations, so that one tool, along with the right propellant
+                <p>PSI-Clone&trade; will be the first tool to use specially designed propellant formulations to achieve the optimum pressure-time history for every formation and well. The PSI-Clone&trade; tool is designed to be fully plug-and-play with different propellant formulations, so that one tool, along with the right propellant
                     formulation, can be used for stimulations in many applications.</p>
                 <p>Additionally, our propellants are safe to handle and transport, and will be independently lab tested to ensure that there are no harmful by-products, either to personnel or the environment.</p>
             </div>
           </div>
         </div>
         <div class="row">
-          <h3>Advantages of the PSI-KICK&trade; Tool</h3>
+          <h3>Advantages of the PSI-Clone&trade; Tool</h3>
           <hr>
             <div class="col-md-3">
               <img class="img-responsive center-block" src="/resources/traditional-site.png" alt="Traditional Hydraulic Fracturing Site">
               <h3 class="text-center">Traditional Hydraulic Fracturing Site</h3>
               <img class="img-responsive center-block" src="/resources/RFS-site.png" alt="RocketFrac Fracturing Site">
-              <h3 class="text-center">PSI-KICK Fracturing Site</h3>
+              <h3 class="text-center">PSI-Clone Fracturing Site</h3>
             </div>
             <div class="col-md-9">
-              <p>The PSI-KICK tool offers many economic, environmental and operation benefits over traditional hydraulic fracturing operations:</p>
+              <p>The PSI-Clone tool offers many economic, environmental and operation benefits over traditional hydraulic fracturing operations:</p>
               <div class="table-responsive">
                 <table class="table">
                   <colgroup>
@@ -94,7 +94,7 @@
                   <thead>
                         <tr>
                           <th> </th>
-                          <th>PSI-KICK&trade;</th>
+                          <th>PSI-Clone&trade;</th>
                           <th>Hydraulic Fracturing</th>
                         </tr>
                       </thead>

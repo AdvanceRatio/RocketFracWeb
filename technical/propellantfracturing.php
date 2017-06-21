@@ -115,7 +115,7 @@
                     <tr>
                       <th> </th>
                       <th>Current Propellant</th>
-                      <th>PSI-KICK&trade;</th>
+                      <th>PSI-Clone&trade;</th>
                       <th>Hydraulic</th>
                     </tr>
                   </thead>
@@ -180,7 +180,7 @@
               <sup>&dagger;</sup>Damage to surface casing or other completions issues (i.e. blown out heel)
               typically prevents fracturing as critical casing sections can no longer contain the pressure
               necessary to fracture the formation. By isolating pressure application to only the target
-              zone, PSI-KICK&trade; can be used in previously un-treatable wells.
+              zone, PSI-Clone&trade; can be used in previously un-treatable wells.
             </p>
           </div>
         </div>
