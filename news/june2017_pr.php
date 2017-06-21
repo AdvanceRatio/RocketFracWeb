@@ -3,7 +3,7 @@ an environmentally safe, proprietary fracing tool using solid rocket fuel, is pl
 that the Honourable Ronald R. Spoehel, former Presidentially-Appointed and U.S. Senate
 confirmed Chief Financial Officer (CFO) of the National Aeronautics and Space Administration
 (NASA), has been elected to serve as the Chairman of the Board of Directors.</p>
-<p class="read-more-target">
+<p> <!--class="read-more-target">-->
   Mr. Spoehel has over 35 years experience in the energy and technology sectors, including
   serving as an executive officer in various general management positions and on the Boards of
   public and private companies in the U.S., Canada, Latin America, and Europe. Following NASA,
