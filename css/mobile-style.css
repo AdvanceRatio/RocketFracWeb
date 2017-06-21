@@ -163,6 +163,10 @@
       margin: auto;
       padding: inherit;
     }
+
+    .thumbnail>img{
+      max-width: 100%;
+    }
     /*I hate ipads*/
     .navbar-header {
         float: none;
