@@ -27,7 +27,7 @@
           <div class="row">
             <div class="col-md-12">
               <div class="pull-right">
-                  <img class="img-responsive center-block" src="/resources/PSI-CLONE_RENDER.png" alt="Render of the PSI-CLONE tool">
+                  <img class="img-responsive center-block" src="/resources/PSI-CLONE_render.png" alt="Render of the PSI-CLONE tool">
               </div>
               <div class="float-right">
                 <p>Existing propellant fracturing
