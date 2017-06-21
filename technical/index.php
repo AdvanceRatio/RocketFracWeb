@@ -25,10 +25,10 @@
             <div class="row">
                 <h3>The Incentive to Innovate</h3>
                 <hr>
-                <p>The PSI-Clone&trade; tool is being developed to make well fracturing more cost effective and to address escalating technical and environmental concerns associated with traditional hydraulic fracturing methods. The intent was to create a disruptive
+                <p>The PSI-CLONE&trade; tool is being developed to make well fracturing more cost effective and to address escalating technical and environmental concerns associated with traditional hydraulic fracturing methods. The intent was to create a disruptive
                     tool that would increase the permeability of rock formations and improve overall well performance at a lower cost – all without the use of water.</p>
-                <p>RocketFrac is working to complete development of a waterless fracturing process by taking the PSI-Clone&trade; tool from concept to deployment and refining the rocket-fueled technology.</p>
-                <p>The PSI-Clone&trade; tool will be fully functional in both vertical and horizontal well applications and will be a powerful enhancement of existing technology.</p>
+                <p>RocketFrac is working to complete development of a waterless fracturing process by taking the PSI-CLONE&trade; tool from concept to deployment and refining the rocket-fueled technology.</p>
+                <p>The PSI-CLONE&trade; tool will be fully functional in both vertical and horizontal well applications and will be a powerful enhancement of existing technology.</p>
             </div>
             <div class="row">
                 <h3>More</h3>
@@ -59,7 +59,7 @@
                   </a>
 
                   <div class = "caption">
-                     <h3>RocketFrac PSI-Clone&trade; Tool</h3>
+                     <h3>RocketFrac PSI-CLONE&trade; Tool</h3>
                      <p>Brings significant advances over existing technology. Expands applications
                         to both vertical and horizontal applications.</p>
                   </div>

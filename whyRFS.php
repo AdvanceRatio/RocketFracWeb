@@ -57,7 +57,7 @@
 				</ul>
 
 				<h2 class="text-standout">The U.S. uses 173 million gallons of water per day for traditional hydraulic fracturing.<br>
-				The PSI-Clone&trade; tool uses NO water!</h2>
+				The PSI-CLONE&trade; tool uses NO water!</h2>
 			</div>
 			<div class="row">
 				<h3>Superior Technology</h3>
@@ -96,7 +96,7 @@
 						<p>Requires less onsite infrastructure</p>
 					</li>
 					<li>
-						<p>RocketFrac's PSI-Clone&trade; tool can be quickly and safely reused multiple times for well fracturing operations</p>
+						<p>RocketFrac's PSI-CLONE&trade; tool can be quickly and safely reused multiple times for well fracturing operations</p>
 					</li>
 				</ul>
 			</div>
@@ -130,8 +130,8 @@
 				<h2 class="text-standout">60-80% of all wells drilled in the U.S. over the next 10 years will require fracturing to produce economically, but
 				this opportunity is threatened by public concern over environmental issues related to hydraulic fracturing.</h2>
 				<p>Due to the recent US election, there is currently a supportive political climate for continued oil and gas drilling and infrastructure buildout. However, this is still significant public pushback to increased well fracturing due to environmental concerns.
-					RocketFrac's PSI-Clone&trade; tool can eliminate these concerns, and allow safe, environmentally friendly access to threatened reserves. As such, governments and businesses at all levels will benefit from endorsing the use of RocketFrac's technology in the
-					oil and gas industry. Our PSI-Clone&trade; tool can be embraced as a green initiative, while still allowing access to the economic benefits of the shale boom.</p>
+					RocketFrac's PSI-CLONE&trade; tool can eliminate these concerns, and allow safe, environmentally friendly access to threatened reserves. As such, governments and businesses at all levels will benefit from endorsing the use of RocketFrac's technology in the
+					oil and gas industry. Our PSI-CLONE&trade; tool can be embraced as a green initiative, while still allowing access to the economic benefits of the shale boom.</p>
 			</div>
 		</div>
 	</div>
