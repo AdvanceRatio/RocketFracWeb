@@ -58,7 +58,7 @@
 	          <ul class="dropdown-menu">
 	            <li><a href="/technical">Overview</a></li>
 	            <li><a href="/technical/propellantfracturing">Propellant Fracturing</a></li>
-	            <li><a href="/technical/psikick">RocketFrac PSI-CLONE&trade;</a></li>
+	            <li><a href="/technical/psi-clone">RocketFrac PSI-CLONE&trade;</a></li>
 	          </ul>
 	        </li>
 					<li>
