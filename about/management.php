@@ -39,8 +39,8 @@
                  <h4> President & CEO</h4>
                  <hr>
                  <p>Annelise Freeman comes to RocketFrac Services with over 26 years of experience in oil and gas exploration, development and operations. As President and CEO, she oversees the design, development and deployment of equipment
-                     engineered to improve the production of oil and gas while maintaining stringent environmental standards. In addition, she is part time faculty at Mount Royal University teaching undergraduate courses in geology. Prior
-                     to joining RocketFrac Annelise served as Chief Geologist at PetroFrontier Corp where she worked both in office and in the field. She trained for many years in the Western Canadian Sedimentary Basin before branching out to
+                     engineered to improve the production of oil and gas while maintaining stringent environmental standards. In addition, she is part time faculty at Mount Royal University teaching undergraduate courses in petroleum geology. Prior
+                     to joining RocketFrac Annelise served as Chief Geologist at a small public exploration company where she worked both in office and in the field. She trained for many years in the Western Canadian Sedimentary Basin before branching out to
                      include areas of expertise in South Australia and the Northern Territory of Australia. Her area of expertise is the development of tight oil and gas properties and complex reservoir geology.</p>
              </div>
          </div>

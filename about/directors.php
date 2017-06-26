@@ -48,9 +48,10 @@ Presently, Mr. Spoehel serves as Managing Partner of Windrock Capital and on the
               <div class="col-md-9 text-left">
                   <h3 class="h3-team">Annelise Freeman</h3>
                   <hr>
-                  <p>Annelise Freeman comes to RocketFrac Services with a diverse background including over 26 years of experience in oil and gas exploration, development and operations. She has field experience and is passionate in her belief
-                      that the petroleum industry can operate in harmony with the environment. In addition, she has experience in course development and design at Mount Royal University and in motivating people to apply their learning to
-                      their lives.</p>
+                  <p>Annelise Freeman comes to RocketFrac Services with over 26 years of experience in oil and gas exploration, development and operations. As President and CEO, she oversees the design, development and deployment of equipment
+                      engineered to improve the production of oil and gas while maintaining stringent environmental standards. In addition, she is part time faculty at Mount Royal University teaching undergraduate courses in petroleum geology. Prior
+                      to joining RocketFrac Annelise served as Chief Geologist at a small public exploration company where she worked both in office and in the field. She trained for many years in the Western Canadian Sedimentary Basin before branching out to
+                      include areas of expertise in South Australia and the Northern Territory of Australia. Her area of expertise is the development of tight oil and gas properties and complex reservoir geology.</p>
               </div>
           </div>
           <div class="row tab-row">
