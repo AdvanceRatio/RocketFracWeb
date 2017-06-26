@@ -30,10 +30,10 @@
          </div>
 
          <div class="row tab-row">
-             <div class="col-md-2">
+             <div class="col-md-3">
                  <img class="img-responsive img-rounded" alt="Ronald Spoehel" src="/resources/headshots/RonaldSpoehelHeadshot.png">
              </div>
-             <div class="col-md-10 text-left">
+             <div class="col-md-9 text-left">
                  <h3 class="h3-team">Hon. Ronald R. Spoehel, Chair</h3>
                  <hr>
                  <p>Mr. Spoehel has over 35 years experience in the energy and technology sectors, including serving from 2007 to 2009 as the Presidentially-Appointed and U.S. Senate confirmed Chief Financial Officer of the National Aeronautics and Space Administration (NASA).  He has also served as an executive officer in various general management positions and on the Boards of public and private companies in the U.S., Canada, Latin America, and Europe.
@@ -42,10 +42,10 @@ Presently, Mr. Spoehel serves as Managing Partner of Windrock Capital and on the
          </div>
 
           <div class="row tab-row">
-              <div class="col-md-2">
+              <div class="col-md-3">
                   <img class="img-responsive img-rounded" alt="Annelise Freeman" src="/resources/headshots/AnneliseFreemanHeadshot.png">
               </div>
-              <div class="col-md-10 text-left">
+              <div class="col-md-9 text-left">
                   <h3 class="h3-team">Annelise Freeman</h3>
                   <hr>
                   <p>Annelise Freeman comes to RocketFrac Services with a diverse background including over 26 years of experience in oil and gas exploration, development and operations. She has field experience and is passionate in her belief
@@ -54,10 +54,10 @@ Presently, Mr. Spoehel serves as Managing Partner of Windrock Capital and on the
               </div>
           </div>
           <div class="row tab-row">
-              <div class="col-md-2">
+              <div class="col-md-3">
                   <img class="img-responsive img-rounded" alt="Jack Reeve" src="/resources/headshots/JackReeveHeadshot.png">
               </div>
-              <div class="col-md-10 text-left">
+              <div class="col-md-9 text-left">
                   <h3 class="h3-team">Jack Reeve</h3>
                   <hr>
                   <p>Jack Reeve is an entrepreneur who brings over 40 years of experience in multiple facets of the global oil and gas industry on 5 continents, developing a wide-ranging acumen in roles from drilling services in the oil fields
@@ -67,10 +67,10 @@ Presently, Mr. Spoehel serves as Managing Partner of Windrock Capital and on the
               </div>
           </div>
           <div class="row tab-row">
-              <div class="col-md-2">
+              <div class="col-md-3">
                   <img class="img-responsive img-rounded" alt="Skip Stone" src="/resources/headshots/SkipStoneHeadshot.png">
               </div>
-              <div class="col-md-10 text-left">
+              <div class="col-md-9 text-left">
                   <h3 class="h3-team">Skip Stone CFA</h3>
                   <hr>
                   <p>Skip Stone is a Managing Director and Principal of Investment Banking at Register Financial Associates, Inc. Skip has been a successful wealth manager for 25 years. Prior to Register, Skip enjoyed a fifteen-year career
